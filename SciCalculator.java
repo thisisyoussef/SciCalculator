@@ -5,6 +5,7 @@ public class SciCalculator {
     public static void main(String[] args) {
 
         //A change for Lab11
+        //THE ACTUAL change for Lab11
         double currentValue = 0.0;
         System.out.println("Current Result: " + currentValue);
         double sumOfCalculations = 0;
